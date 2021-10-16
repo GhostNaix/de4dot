@@ -8,7 +8,7 @@ It uses [dnlib](https://github.com/0xd4d/dnlib/) to read and write assemblies so
 Binaries
 ========
 
-Get binaries from the build server [![](https://github.com/0xd4d/de4dot/workflows/GitHub%20CI/badge.svg)](https://github.com/0xd4d/de4dot/actions).
+Get binaries [here](https://github.com/GhostNaix/de4dot/releases/tag/v3.1.41592.3405)
 
 It's FREE but there's NO SUPPORT
 ================================
